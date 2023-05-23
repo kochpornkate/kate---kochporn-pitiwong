@@ -1,1 +1,14 @@
  
+ start
+
+if the >=80 output 'A' if not
+ 
+ if the >=70 output 'B' if not
+ 
+ if the >=60 output 'C' if not
+
+if the >=0 output  'D' if not
+ 
+ output fail
+ 
+end
